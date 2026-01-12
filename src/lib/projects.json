@@ -1,0 +1,168 @@
+[
+  {
+    "name": "OPA! - Family Card Game",
+    "description": "Mobile casual card shedding game based on Uno in a 1v1 format.",
+    "role": "Game Designer & Artist",
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/il/app/opa-family-card-game/id6469609802"
+      },
+      {
+        "label": "Play Store",
+        "url": "https://play.google.com/store/apps/details?id=com.bbumgames.opa"
+      },
+      {
+        "label": "Old Video",
+        "url": "#"
+      }
+    ],
+    "date": "September 2023",
+    "group": "Work Projects"
+  },
+  {
+    "name": "Witch Hunter",
+    "description": "PC fantasy tactical RPG (can't share the build, it requires a Steam key).",
+    "role": "Game Designer",
+    "links": [
+      {
+        "label": "Video",
+        "url": "#"
+      }
+    ],
+    "date": "September 2024 (project is still ongoing)",
+    "group": "Work Projects"
+  },
+  {
+    "name": "Enigma: VR Puzzle Box",
+    "description": "VR puzzle box game inspired by games like The Room.",
+    "role": "Game Designer & Lead Artist",
+    "links": [],
+    "date": "Ongoing",
+    "group": "Work Projects"
+  },
+  {
+    "name": "Midbarium",
+    "description": "Interactive & gamified zoo in the Negev.",
+    "role": "Artist",
+    "links": [
+      {
+        "label": "Site",
+        "url": "#"
+      }
+    ],
+    "date": "January 2023",
+    "group": "Work Projects"
+  },
+  {
+    "name": "Rogue Beat",
+    "description": "Mobile action rhythm game, made during the 1st year of college in the accelerator program.",
+    "role": "Game Designer & Artist",
+    "links": [
+      {
+        "label": "Video",
+        "url": "#"
+      }
+    ],
+    "date": "December 2021",
+    "group": "Work Projects"
+  },
+  {
+    "name": "Manos - Land of Bal",
+    "description": "Dark fantasy turn-based tactical RPG.",
+    "role": "Game Designer, Art Director & Concept Artist",
+    "links": [
+      {
+        "label": "Gameplay Video",
+        "url": "#"
+      },
+      {
+        "label": "Cutscenes Video",
+        "url": "#"
+      },
+      {
+        "label": "Build",
+        "url": "#"
+      }
+    ],
+    "date": "October 2023",
+    "group": "Student Projects"
+  },
+  {
+    "name": "Colonia: Second Home",
+    "description": "Sci-fi tabletop RPG.",
+    "role": "Game Designer & Producer",
+    "links": [
+      {
+        "label": "Rulebook",
+        "url": "#"
+      }
+    ],
+    "date": "February 2022",
+    "group": "Student Projects"
+  },
+  {
+    "name": "Space Dinos",
+    "description": "Short game meant to teach kids how to use the computer mouse, made during the D4CR (Designing for Children's Rights) game jam.",
+    "role": "Game Designer & Artist",
+    "links": [
+      {
+        "label": "Video",
+        "url": "#"
+      },
+      {
+        "label": "Build",
+        "url": "#"
+      }
+    ],
+    "date": "August 2022",
+    "group": "Game Jams"
+  },
+  {
+    "name": "Vertical Slice",
+    "description": "Short & funny game about developing games, made during GGJ 2023.",
+    "role": "Game Designer & Artist",
+    "links": [
+      {
+        "label": "Video",
+        "url": "#"
+      },
+      {
+        "label": "Build",
+        "url": "#"
+      }
+    ],
+    "date": "February 2023",
+    "group": "Game Jams"
+  },
+  {
+    "name": "Bound Survivors",
+    "description": "Co-op survivor game, made during GGJ 2024.",
+    "role": "Artist",
+    "links": [
+      {
+        "label": "Build",
+        "url": "#"
+      }
+    ],
+    "date": "January 2024",
+    "group": "Game Jams"
+  },
+  {
+    "name": "Cara Loft",
+    "description": "Short stealth & action game, made during GGJ 2022.",
+    "role": "Artist",
+    "links": [
+      {
+        "label": "Video",
+        "url": "#"
+      },
+      {
+        "label": "Build",
+        "url": "#"
+      }
+    ],
+    "date": "February 2022",
+    "group": "Game Jams"
+  }
+]
