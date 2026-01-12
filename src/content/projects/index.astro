@@ -1,0 +1,42 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import projects from "./projects.json";
+---
+
+<Layout title="Portfolio">
+
+<section class="py-10 px-4 max-w-6xl mx-auto">
+
+<h1 class="text-4xl font-bold mb-10">Portfolio</h1>
+
+<table class="w-full text-left border-collapse">
+  <thead>
+    <tr class="bg-gray-200">
+      <th class="p-3 border">Game</th>
+      <th class="p-3 border">Description</th>
+      <th class="p-3 border">Role</th>
+      <th class="p-3 border">Links</th>
+      <th class="p-3 border">Date</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    {projects.map((p) => (
+      <tr class="bg-white even:bg-gray-100">
+        <td class="border p-3">{p.name}</td>
+        <td class="border p-3">{p.description}</td>
+        <td class="border p-3">{p.role}</td>
+        <td class="border p-3">
+          {p.links?.map((l) => (
+            <a href={l.url} class="block text-blue-600 underline">{l.label}</a>
+          ))}
+        </td>
+        <td class="border p-3">{p.date}</td>
+      </tr>
+    ))}
+  </tbody>
+</table>
+
+</section>
+
+</Layout>

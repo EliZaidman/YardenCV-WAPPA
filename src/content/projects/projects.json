@@ -1,0 +1,30 @@
+[
+  {
+    "name": "OPA! - Family Card Game",
+    "description": "Mobile casual card shedding game based on Uno in a 1v1 format",
+    "role": "Game Designer & Artist",
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/il/app/opa-family-card-game/id6469609802"
+      },
+      {
+        "label": "Play Store",
+        "url": "https://play.google.com/store/apps/details?id=com.bbumgames.opa"
+      }
+    ],
+    "date": "September 2023"
+  },
+  {
+    "name": "Witch Hunter",
+    "description": "PC fantasy tactical RPG (cannot share the build)",
+    "role": "Game Designer",
+    "links": [
+      {
+        "label": "Video",
+        "url": "#"
+      }
+    ],
+    "date": "September 2024"
+  }
+]
